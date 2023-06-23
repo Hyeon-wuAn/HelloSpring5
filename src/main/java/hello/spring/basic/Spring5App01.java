@@ -24,5 +24,6 @@ public class Spring5App01 {
         Spring5Bean01 app01 = new Spring5Bean01();
     // 메서드 호출 : 변수명.메서드명
     app01.sayHello("스프링5!");
+
     }
 }
